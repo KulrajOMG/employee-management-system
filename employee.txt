@@ -1,0 +1,4 @@
+Employee ID: EMP101
+Employee Name: Rahul Sharma
+Department: Human Resources
+Status: Onboarding
